@@ -1,0 +1,9 @@
+@inproceedings{hu2020eg,
+  title={EG\^{} 2N: enhanced gradient guiding network for single MR image super-resolution},
+  author={Hu, Xiaowan and Cai, Yuanhao and Wang, Haoqian and Peng, Yanbin and Zhang, Yulun},
+  booktitle={Optoelectronic Imaging and Multimedia Technology VII},
+  volume={11550},
+  pages={115500I},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}

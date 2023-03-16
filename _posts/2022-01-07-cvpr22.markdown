@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging"
+date:   2022-01-07 08:00:00 +00:00
+image: /images/HDNet.png
+categories: research
+author: "Yuanhao Cai"
+venue: "Conference on Computer Vision and Pattern Recognition (CVPR)"
+paper: https://arxiv.org/pdf/2203.02149.pdf
+bibtex: /bibtex/hdnet.txt
+project: https://github.com/caiyuanhao1998/MST
+authors: Xiaowan Hu *, <strong>Yuanhao Cai *</strong>, Jing Lin, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, <a href="https://www.bell-labs.com/about/researcher-profiles/xyuan/">Xin Yuan</a>, <a href="https://yulunzhang.com/">Yulun Zhang</a>, <a href="http://people.ee.ethz.ch/~timofter/">Radu Timofte</a>, <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>
+---
+Dual-domain learning for hyperspectral image reconstruction

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Res-Steps-Net for Multi-Person Pose Estimation"
+date:   2019-12-01 08:00:00 +00:00
+image: /images/Res-Step-Net.png
+categories: research
+author: "Yuanhao Cai"
+venue: "International Conference on Computer Vision Workshop (ICCVW),  <strong>Best Paper Award</strong>"
+paper: https://cocodataset.org/files/keypoints_2019_reports/Megvii.pdf
+bibtex: /bibtex/rsn_iccv.txt
+project: https://github.com/caiyuanhao1998/RSN
+zhihu: https://zhuanlan.zhihu.com/p/112297707
+leaderboard: https://cocodataset.org/#keypoints-leaderboard
+authors: <strong>Yuanhao Cai *</strong>, <a href="https://scholar.google.com/citations?user=0QBBNGoAAAAJ&hl=zh-CN">Zhicheng Wang</a> *, Binyi Yin, Ruihao Yin, Angang Du, <a href="https://scholar.google.com.hk/citations?user=Sz1yTZsAAAAJ&hl=zh-CN">Zhengxion Luo</a>, <a href="https://www.zemingli.com/">Zeming Li</a>, <a href="https://scholar.google.com/citations?user=Jv4LCj8AAAAJ&hl=en">Xinyu Zhou</a>, <a href="https://www.skicyyu.org/">Gang Yu</a>, <a href="https://scholar.google.com/citations?user=k2ziPUsAAAAJ&hl=zh-CN">ErJin Zhou</a>, <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN">Xiangyu Zhang</a>, <a href="https://yichenwei.github.io/">Yichen Wei</a>, <a href="http://www.jiansun.org/">Jian Sun</a>
+---
+Winner of COCO Keypoint Detection Challenge, 2019

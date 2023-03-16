@@ -1,0 +1,5 @@
+@article{huang2020joint,
+  title={Joint coco and lvis workshop at eccv 2020: Coco keypoint challenge track technical report: Udp+},
+  author={Huang, Junjie and Shan, Zengguang and Cai, Yuanhao and Guo, Feng and Ye, Yun and Chen, Xinze and Zhu, Zheng and Huang, Guan and Lu, Jiwen and Du, Dalong},
+  year={2020}
+}

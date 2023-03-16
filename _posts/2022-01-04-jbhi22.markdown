@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark"
+date:   2022-01-04 08:00:00 +00:00
+image: /images/RFormer.png
+author: "Yuanhao Cai"
+categories: research
+venue: "IEEE Journal of Biomedical and Health Informatics (J-BHI)"
+paper: https://arxiv.org/pdf/2201.00466.pdf
+project: https://github.com/dengzhuo-AI/Real-Fundus
+bibtex: /bibtex/rformer.txt
+authors: Zhuo Deng *, <strong>Yuanhao Cai *</strong>, Lu Chen, Zheng Gong, Qiqi Bao, Xue Yao, Dong Fang, Shaochong Zhang, <a href="https://sklco.pkusz.edu.cn/info/1030/1046.htm">Lan Ma</a>
+---
+The first clinical benchmark and Transformer-based method for fundus image restoration

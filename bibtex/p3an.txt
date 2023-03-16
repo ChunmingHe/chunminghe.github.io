@@ -1,0 +1,6 @@
+@InProceedings{Hu_2021_CVPR,
+    author    = {Hu, Xiaowan and Ma, Ruijun and Liu, Zhihong and Cai, Yuanhao and Zhao, Xiaole and Zhang, Yulun and Wang, Haoqian},
+    title     = {Pseudo 3D Auto-Correlation Network for Real Image Denoising},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year      = {2021},
+}

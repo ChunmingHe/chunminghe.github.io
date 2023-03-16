@@ -1,0 +1,6 @@
+@inproceedings{cai2019res,
+  title={Res-steps-net for multi-person pose estimation},
+  author={Cai, Yuanhao and Wang, Zhicheng and Yin, Binyi and Yin, Ruihao and Du, Angang and Luo, Zhengxiong and Li, Zeming and Zhou, Xinyu and Yu, Gang and Zhou, Erjin and others},
+  booktitle={Joint COCO and Mapillary Workshop at ICCV},
+  year={2019}
+}

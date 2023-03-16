@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Pseudo 3D Auto-Correlation Network for Real Image Denoising"
+date:   2021-02-01 08:00:00 +00:00
+image: /images/P3AN.png
+categories: research
+author: "Yuanhao Cai"
+venue: "Conference on Computer Vision and Pattern Recognition (CVPR)"
+paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Pseudo_3D_Auto-Correlation_Network_for_Real_Image_Denoising_CVPR_2021_paper.pdf
+project: https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Pseudo_3D_Auto-Correlation_Network_for_Real_Image_Denoising_CVPR_2021_paper.html
+bibtex: /bibtex/p3an.txt
+authors: Xiaowan Hu, <a href="https://scholar.google.com/citations?user=k6irHZ0AAAAJ&hl=en">Ruijun Ma</a>, Zhihong Liu, <strong>Yuanhao Cai </strong>, <a href="https://scholar.google.com/citations?user=xkK4mRUAAAAJ&hl=en">Xiaole Zhao</a>, <a href="https://yulunzhang.com/">Yulun Zhang</a>, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>
+---
+An efficient architecture for image denoising

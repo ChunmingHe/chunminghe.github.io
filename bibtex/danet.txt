@@ -1,0 +1,6 @@
+@INPROCEEDINGS{danet,
+  author={Luo, Zhengxion and Wang, Zhicheng and Cai, Yuanhao and Wang, Guanan and Wang, Liang and Huang, Yan and Zhou, ErJin and Tan, Tieniu and Sun, Jian},
+  booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={Efficient Human Pose Estimation by Learning Deeply Aggregated Representations}, 
+  year={2021},
+}

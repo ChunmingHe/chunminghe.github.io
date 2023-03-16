@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Learning Delicate Local Representations for Multi-Person Pose Estimation"
+date:   2020-12-01 08:00:00 +00:00
+image: /images/RSN.png
+categories: research
+author: "Yuanhao Cai"
+venue: "European Conference on Computer Vision (ECCV), <strong>Spotlight</strong>"
+paper: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480460.pdf
+bibtex: /bibtex/rsn.txt
+project: https://github.com/caiyuanhao1998/RSN
+zhihu: https://zhuanlan.zhihu.com/p/112297707
+leaderboard: https://cocodataset.org/#keypoints-leaderboard
+authors: <strong>Yuanhao Cai *</strong>, <a href="https://scholar.google.com/citations?user=0QBBNGoAAAAJ&hl=zh-CN">Zhicheng Wang</a> *, <a href="https://scholar.google.com.hk/citations?user=Sz1yTZsAAAAJ&hl=zh-CN">Zhengxion Luo</a>, Binyi Yin, Ang'ang Du, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN">Xiangyu Zhang</a>, <a href="https://scholar.google.com/citations?user=Jv4LCj8AAAAJ&hl=en">Xinyu Zhou</a>, <a href="https://scholar.google.com/citations?user=k2ziPUsAAAAJ&hl=zh-CN">ErJin Zhou</a>, <a href="http://www.jiansun.org/">Jian Sun</a>
+---
+A multi-stage structure and an attention mechanism for accurate human pose estimation

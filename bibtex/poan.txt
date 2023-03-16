@@ -1,0 +1,6 @@
+@INPROCEEDINGS{poan,
+  author={Hu, Xiaowan and Wang, Haoqian and Cai, Yuanhao and Zhao, Xiaole and Zhang, Yulun},
+  booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={Pyramid Orthogonal Attention Network based on Dual Self-Similarity for Accurate Mr Image Super-Resolution}, 
+  year={2021},
+}
