@@ -1,6 +1,0 @@
-@article{rformer,
-  title={RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark},
-  author={Deng, Zhuo and Cai, Yuanhao and Chen, Lu and Gong, Zheng and Bao, Qiqi and Yao, Xue and Fang, Dong and Zhang, Shaochong and Ma, Lan},
-  journal={arXiv preprint arXiv:2201.00466},
-  year={2022}
-}

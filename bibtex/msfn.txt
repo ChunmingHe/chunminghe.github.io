@@ -1,6 +1,0 @@
-@inproceedings{msfn,
-  title={Multi-scale selective feedback network with dual loss for real image denoising},
-  author={Hu, Xiaowan and Cai, Yuanhao and Liu, Zhihong and Wang, Haoqian and Zhang, Yulun},
-  booktitle={IJCAI},
-  year={2021}
-}

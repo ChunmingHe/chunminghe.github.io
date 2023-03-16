@@ -1,6 +1,0 @@
-@inproceedings{seq2seq,
-  title={Unsupervised Flow-Aligned Sequence-to-Sequence Learning for Video Restoration},
-  author={Lin, Jing  and Hu, Xiaowan and Cai, Yuanhao and Wang, Haoqian and Yan, Youliang and Zou, Xueyi and Zhang, Yulun and Van Gool, Luc},
-  booktitle={ICML},
-  year={2022}
-}
