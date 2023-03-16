@@ -1,89 +1,75 @@
-= Lei Xu
+= Chunming He
 
 ~~~
-{}{img_left}{LeiXu.jpg}{alt text}{108.8px}{145.1px}{}
-Lei Xu\n
+{}{img_left}{ChunmingHe.jpg}{alt text}{105px}{136.3px}{}
+Chunming He\n
 Master Student \n 
-[https://iopen.nwpu.edu.cn/en/Home.htm School of Artificial Intelligence, OPtics and ElectroNics (iOPEN)] \n
-[https://www.nwpu.edu.cn/ Northwestern Polytechnical University]  \n
-Email: solerxl1998\[AT\]gmail.com \n
-\[[https://github.com/solerxl Github]\] \[[./cv.pdf Curriculum Vitae]\]
+[https://www.sigs.tsinghua.edu.cn/ Shenzhen International Graduate School] \n
+[https://www.tsinghua.edu.cn/ Tsinghua University]  \n
+Email: chunminghe19990224\[AT\]gmail.com \n
+\[[https://scholar.google.com/citations?hl=en&user=m0aEH2YAAAAJ Google Scholar]\]\[[https://github.com/ChunmingHe Github]\] \[[./cv.pdf CV]\] \[[https://www.researchgate.net/profile/Chunming-He Research Gate]\]
 
 
 ~~~
 
 == Short Bio 
-I am a second-year master student at Northwestern Polytechnical University (NWPU) advised by Prof. [https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=zh-CN&oi=ao Feiping Nie]. 
+I am a second-year master student at Tsinghua University advised by Prof. [https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en Xiu Li]. Now I work closely with Dr. [http://kailigo.github.io/ Kai Li] and Dr. [https://yulunzhang.com/ Yulun Zhang].
 Previously, I received my B.Eng. degree from Nanjing University of Posts and Telecommunications (NJUPT) under the supervision of Prof. 
-[https://scholar.google.com/citations?user=n8WF5kEAAAAJ&hl=zh-CN&oi=ao Lei Chen]. 
+[https://scholar.google.com/citations?user=n8WF5kEAAAAJ&hl=zh-CN&oi=ao Hu Zhu] and Dr. [https://scholar.google.com/citations?user=tfwlUZkAAAAJ&hl=en Guoxia Xu]. 
 
-My research interests focus on Dimensionality Reduction, 
-including feature selection and clustering.
-I am also interested in the graph machine learning and the uncertainty in machine learning.
+My research interests focus on low-level vision, 
+including image enhancement, image fusion, and image dehazing.
+I am also interested in camouflaged object detection.
 
 == News 
-- \[Nov. 2022\] "Efficient Top-k Feature Selection Using Coordinate Descent Method" has been accepted by AAAI Conference on Artificial Intelligence (*AAAI*) 2023.
-- \[Sept. 2022\] "Multi-modal sequence learning for Alzheimer's disease progression prediction with incomplete variable-length longitudinal data" has been accepted by Medical Image Analysis (*MedIA*).
-== Education 
-- *M.S.*, Sep. 2021 - Present \n
-  Advisor: Prof. [https://scholar.google.com/citations?user=2oB4nAIAAAAJ&hl=zh-CN&oi=ao Feiping Nie] \n
-  School of Artificial Intelligence, OPtics and ElectroNics (iOPEN) \n
-  Northwestern Polytechnical University
+- \[Feb. 2023\] One paper accepted by CVPR 2023.
+- \[Jan. 2023\] One paper accepted by IEEE TNNLS (IF=14.26).
+- \[Oct. 2022\] One paper accepted by IEEE TITS (IF=9.55).
+- \[Sep. 2022\] One paper accepted by MedIA (IF=13.83), Congrats to [https://solerxl.github.io/ Lei Xu]!
+- \[Aug. 2022\] One paper accepted by IEEE TITS (IF=9.55).
 
-- *B.E.*, Sep. 2017 - July 2021 \n
-  Advisor: Prof. [https://scholar.google.com/citations?user=n8WF5kEAAAAJ&hl=zh-CN&oi=ao Lei Chen] \n
-  Bell Honors School \n
-  Nanjing University of Posts and Telecommunications
 
-== Teaching
-- *Teaching Assistant* for Foundations of Machine Learning (机器学习基础), 2022
 
- === Honors
-- * National Scholarship for Graduate Students (Rank: 1/208)*, 2022 \n
-   Northwestern Polytechnical University, China \n
-
-- * National Scholarships for Undergraduate Students (Rank: 2/159)*, 2018 \n
-   Nanjing University of Posts and Telecommunications, China \n
-
-- * Outstanding Graduate *, 2021 \n
-   Nanjing University of Posts and Telecommunications, China \n
-
-- * First Prize * in Jiangsu Mathematics Competition for College Students, 2018 \n
-   Nanjing University of Posts and Telecommunications, China \n
 
 
 == Selected Publications 
 Here is a list of my publications (selected).
-For full publications, please refer to my [https://scholar.google.com/citations?user=6l4c0oEAAAAJ&hl=zh-CN&authuser=1 Google Scholar]. \n
-- Accepted
--- Efficient Top-k Feature Selection Using Coordinate Descent Method\n
-*Lei Xu*, Rong Wang, Feiping Nie\*, Xuelong Li\n
-Proceedings of the AAAI Conference on Artificial Intelligence (*AAAI*), 2023
--- Multi-modal sequence learning for Alzheimer’s disease progression prediction with incomplete variable-length longitudinal data\n
-*Lei Xu*, Hui Wu, Chunming He, Jun Wang, Changqing Zhang, Feiping Nie, Lei Chen\*\n
-Medical Image Analysis (*MedIA*), 2022 
-\[[https://www.sciencedirect.com/science/article/abs/pii/S1361841522002717 PDF]\] \[[https://github.com/solerxl/Code_For_MIA_2022 Code]\]
--- Modeling Disease Progression via Weakly Supervised Temporal Multitask Matrix Completion\n
-Lingsheng Wang, *Lei Xu*, Ping Li, Siming Zha, Lei Chen\*\n
-IEEE International Conference on Systems, Man and Cybernetics (*SMC*), 2020
-\[[https://ieeexplore.ieee.org/document/9283150 PDF]\]
--- Robust Sparse Low-rank Hypergraph Learning under Complex Noise\n
-Tianhao Cui, Lei Chen\*, Jie Xu, *Lei Xu*\n
-IEEE International Conference on Systems, Man and Cybernetics (*SMC*), 2020
-\[[https://ieeexplore.ieee.org/document/9283388 PDF]\]
+For full publications, please refer to my [https://scholar.google.com/citations?hl=en&user=m0aEH2YAAAAJ Google Scholar]. \n
+- Accepted († equal contribution, * corresponding author)
+-- Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction\n
+*Chunming He*, Kai Li\*, Yachao Zhang, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\*\n
+IEEE International Conference on Computer Vision and Pattern Recognition (*CVPR*), 2023 \[PDF\] \[CODE\]
+-- DM-Fusion: Deep Model-Driven Network for Heterogeneous Image Fusion\n
+Guoxia Xu\†, *Chunming He*\†, Hao Wang\*, Hu Zhu, Weiping Ding\n
+IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2022 
+\[[https://ieeexplore.ieee.org/abstract/document/10026659 PDF]\] 
+-- IVF-Net: An Infrared and Visible Data Fusion Deep Network for Traffic Object Enhancement in Intelligent Transportation Systems\n
+Mingye Ju\†, *Chunming He*\†, Juping Liu, Bin Kang, Jian Su, Dengyin Zhang\n
+IEEE Transactions on Intelligent Transportation Systems (*TITS*), 2022
+\[[https://ieeexplore.ieee.org/abstract/document/9917460 PDF]\]
+-- PcGAN: A Noise Robust Conditional Generative Adversarial Network for One Shot Learning\n
+Lizhen Deng\†, *Chunming He*\†, Guoxia Xu, Hu Zhu\*, Hao Wang\n
+IEEE Transactions on Intelligent Transportation Systems (*TITS*), 2022
+\[[https://ieeexplore.ieee.org/abstract/document/9868207 PDF]\]
 
 - Under Review
--- Revisiting \$ \\ell_{2,0} \$-norm Constrained Least Square Regression Problem\n
-Rong Wang\#, *Lei Xu*, Feiping Nie\*, Xuelong Li \n 
-Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*)\n
-(\#: co-advisor)
--- Nonlinear Robust Feature Selection based on the \$ \\ell_{2,p} \$-norm Regularized Autoencoder\n
-Feiping Nie\*\#, *Lei Xu*, Rong Wang, Xuelong Li \n 
-Submitted to IEEE Transactions on Knowledge and Data Engineering (*TKDE*)\n
-(\#: advisor)
--- Semi-Supervised Top-k Feature Selection with a General Optimization Framework\n
-*Lei Xu*, Rong Wang, Feiping Nie\*, Jun Wu, Xuelong Li\n
-Submitted to IEEE International Conference on Multimedia and Expo (*ICME*)
+-- Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects\n
+*Chunming He*, Kai Li\*, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\*\n
+Submitted to International Conference on Computer Vision (*ICCV*), 2023\n
+-- Degradation-Resistant Unfolding Network for Heterogeneous Image Fusion\n
+*Chunming He*, Kai Li, Guoxia Xu, Yulun Zhang, Runze Hu, Zhenhua Guo, Xiu Li\* \n 
+Submitted to International Conference on Computer Vision (*ICCV*), 2023\n
+-- HQG-Net: Unpaired Medical Image Enhancement with High-Quality Guidance\n
+*Chunming He*, Kai Li, Guoxia Xu, Jiangpeng Yan, Longxiang Tang, Yulun Zhang, Xiu Li\*, Yaowei Wang\n
+Submitted to IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), major revision\n
+
+ == Selected Awards
+- * First-class Scholarship, Tsinghua Shenzhen International Graduate School*, 2022 \n
+   Tsinghua University, China \n
+
+== Teachings
+- *Teaching Assistant* for Intelligent Unmanned Delivery in Meituan (美团智能无人配送), 2022
 
 
-
+== Professional Activities
+- Reviewer for TITS, IET Image Processing
