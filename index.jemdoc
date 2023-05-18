@@ -19,7 +19,7 @@ Previously, I received my B.Eng. degree from Nanjing University of Posts and Tel
 
 My research interests focus on low-level vision, 
 including image enhancement, image fusion, and image dehazing.
-I am also interested in camouflaged object detection.
+I am also interested in conceald object segmentation.
 
 == News 
 - \[Feb. 2023\] One paper accepted by CVPR 2023.
@@ -38,7 +38,7 @@ For full publications, please refer to my [https://scholar.google.com/citations?
 - Accepted († equal contribution, * corresponding author)
 -- Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction\n
 *Chunming He*, Kai Li\*, Yachao Zhang, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\*\n
-IEEE International Conference on Computer Vision and Pattern Recognition (*CVPR*), 2023 \[PDF\] \[CODE\]
+IEEE International Conference on Computer Vision and Pattern Recognition (*CVPR*), 2023 \[PDF\] \[[https://github.com/ChunmingHe/FEDER CODE]\]
 -- DM-Fusion: Deep Model-Driven Network for Heterogeneous Image Fusion\n
 Guoxia Xu\†, *Chunming He*\†, Hao Wang\*, Hu Zhu, Weiping Ding\n
 IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2022 
@@ -63,6 +63,9 @@ Submitted to International Conference on Computer Vision (*ICCV*), 2023\n
 -- Degradation-Resistant Unfolding Network for Heterogeneous Image Fusion\n
 *Chunming He*, Kai Li, Guoxia Xu, Yulun Zhang, Runze Hu, Zhenhua Guo, Xiu Li\* \n 
 Submitted to International Conference on Computer Vision (*ICCV*), 2023\n
+-- Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping\n
+*Chunming He*\†, Kai Li\†, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\* \n 
+Submitted to Advances in Neural Information Processing Systems (*NeurIPS*), 2023  \[PDF\] \n
 -- HQG-Net: Unpaired Medical Image Enhancement with High-Quality Guidance\n
 *Chunming He*, Kai Li, Guoxia Xu, Jiangpeng Yan, Longxiang Tang, Yulun Zhang, Xiu Li\*, Yaowei Wang\n
 Submitted to IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), major revision\n
