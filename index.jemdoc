@@ -24,6 +24,7 @@ I am also interested in conceald object segmentation.
 I am looking for a PhD position in Fall, 2024. I'm open to any meaningful research topics during my doctoral studies.
 
 == News 
+- \[Jul. 2023\] One paper accepted by ICCV 2023.
 - \[May 2023\] One paper accepted by MICCAI 2023, Congrats to Longxiang!
 - \[Feb. 2023\] One paper accepted by CVPR 2023.
 - \[Jan. 2023\] One paper accepted by IEEE TNNLS (IF=14.26).
@@ -39,6 +40,9 @@ I am looking for a PhD position in Fall, 2024. I'm open to any meaningful resear
 Here is a list of my publications (selected).
 For full publications, please refer to my [https://scholar.google.com/citations?hl=en&user=m0aEH2YAAAAJ Google Scholar]. \n
 - Accepted († equal contribution, * corresponding author)
+-- Degradation-Resistant Unfolding Network for Heterogeneous Image Fusion\n
+*Chunming He*, Kai Li\*, Guoxia Xu, Yulun Zhang, Runze Hu, Zhenhua Guo, Xiu Li\*\n
+International Conference on Computer Vision (*ICCV*), 2023
 -- Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction\n
 *Chunming He*, Kai Li\*, Yachao Zhang, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\*\n
 IEEE International Conference on Computer Vision and Pattern Recognition (*CVPR*), 2023 \[[https://openaccess.thecvf.com/content/CVPR2023/papers/He_Camouflaged_Object_Detection_With_Feature_Decomposition_and_Edge_Reconstruction_CVPR_2023_paper.pdf PDF]\] \[[https://github.com/ChunmingHe/FEDER CODE]\]
