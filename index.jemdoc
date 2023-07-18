@@ -70,7 +70,9 @@ Medical Image Analysis (*MedIA*), 2022
 -- Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping\n
 *Chunming He*\†, Kai Li\†, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\* \n 
 arXiv preprint arXiv:2305.11003 (arXiv), 2023 \[[https://arxiv.org/abs/2305.11003 PDF]\] \n
-
+-- HQG-Net: Unpaired Medical Image Enhancement with High-Quality Guidance\n
+*Chunming He*, Kai Li, Guoxia Xu, Jiangpeng Yan, Longxiang Tang, Yulun Zhang, Xiu Li\*, Yaowei Wang\n
+arXiv preprint arXiv:2307.07829 (arXiv), 2023 \[[https://arxiv.org/abs/2307.07829 PDF]\] \n
 
  == Selected Awards
 - * First-class Scholarship, Tsinghua Shenzhen International Graduate School*, 2022 \n
