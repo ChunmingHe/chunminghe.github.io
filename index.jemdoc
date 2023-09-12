@@ -24,6 +24,7 @@ I am also interested in conceald object segmentation.
 I am looking for a PhD position in Fall, 2024. I'm open to any meaningful research topics during my doctoral studies.
 
 == News 
+- \[Sep. 2023\] One paper accepted by IEEE TNNLS (IF=14.26).
 - \[Jul. 2023\] One paper accepted by ICCV 2023.
 - \[May 2023\] One paper accepted by MICCAI 2023, Congrats to Longxiang!
 - \[Feb. 2023\] One paper accepted by CVPR 2023.
@@ -46,9 +47,12 @@ International Conference on Computer Vision (*ICCV*), 2023
 -- Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction\n
 *Chunming He*, Kai Li\*, Yachao Zhang, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\*\n
 IEEE International Conference on Computer Vision and Pattern Recognition (*CVPR*), 2023 \[[https://openaccess.thecvf.com/content/CVPR2023/papers/He_Camouflaged_Object_Detection_With_Feature_Decomposition_and_Edge_Reconstruction_CVPR_2023_paper.pdf PDF]\] \[[https://github.com/ChunmingHe/FEDER CODE]\]
+-- HQG-Net: Unpaired Medical Image Enhancement with High-Quality Guidance\n
+*Chunming He*, Kai Li\*, Guoxia Xu, Jiangpeng Yan, Longxiang Tang, Yulun Zhang, Yaowei Wang, Xiu Li\*\n
+IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2023 \[[https://arxiv.org/abs/2307.07829 PDF]\] \[[https://github.com/ChunmingHe/HQG-Net CODE]\]
 -- DM-Fusion: Deep Model-Driven Network for Heterogeneous Image Fusion\n
 Guoxia Xu\†, *Chunming He*\†, Hao Wang\*, Hu Zhu, Weiping Ding\n
-IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2022 
+IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2023 
 \[[https://ieeexplore.ieee.org/abstract/document/10026659 PDF]\] 
 -- IVF-Net: An Infrared and Visible Data Fusion Deep Network for Traffic Object Enhancement in Intelligent Transportation Systems\n
 Mingye Ju\†, *Chunming He*\†, Juping Liu, Bin Kang, Jian Su, Dengyin Zhang\n
@@ -73,9 +77,7 @@ arXiv preprint arXiv:2305.11003 (arXiv), 2023 \[[https://arxiv.org/abs/2305.1100
 -- Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects\n
 *Chunming He*, Kai Li\*, Yachao Zhang, Yulun Zhang, Zhenhua Guo, Xiu Li\*, Martin Danelljan, Fisher Yu \n 
 arXiv preprint arXiv:2308.03166 (arXiv), 2023 \[[https://arxiv.org/abs/2308.03166 PDF]\] \n
--- HQG-Net: Unpaired Medical Image Enhancement with High-Quality Guidance\n
-*Chunming He*, Kai Li\*, Guoxia Xu, Jiangpeng Yan, Longxiang Tang, Yulun Zhang, Xiu Li\*, Yaowei Wang\n
-arXiv preprint arXiv:2307.07829 (arXiv), 2023 \[[https://arxiv.org/abs/2307.07829 PDF]\] \n
+
 
  == Selected Awards
 - * First-class Scholarship, Tsinghua Shenzhen International Graduate School*, 2022 \n
