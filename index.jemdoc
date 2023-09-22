@@ -24,14 +24,14 @@ I am also interested in conceald object segmentation.
 I am looking for a PhD position in Fall, 2024. I'm open to any meaningful research topics during my doctoral studies.
 
 == News 
-- \[Sep. 2023\] One paper accepted by IEEE TNNLS (IF=14.26).
-- \[Jul. 2023\] One paper accepted by ICCV 2023.
-- \[May 2023\] One paper accepted by MICCAI 2023, Congrats to Longxiang!
-- \[Feb. 2023\] One paper accepted by CVPR 2023.
-- \[Jan. 2023\] One paper accepted by IEEE TNNLS (IF=14.26).
-- \[Oct. 2022\] One paper accepted by IEEE TITS (IF=9.55).
-- \[Sep. 2022\] One paper accepted by MedIA (IF=13.83), Congrats to [https://solerxl.github.io/ Lei Xu]!
-- \[Aug. 2022\] One paper accepted by IEEE TITS (IF=9.55).
+- \[Sep. 2023\] One paper accepted to NeurIPS 2023 and one paper accepted to IEEE TNNLS (IF=14.26).
+- \[Jul. 2023\] One paper accepted to ICCV 2023.
+- \[May 2023\] One paper accepted to MICCAI 2023, Congrats to Longxiang!
+- \[Feb. 2023\] One paper accepted to CVPR 2023.
+- \[Jan. 2023\] One paper accepted to IEEE TNNLS (IF=14.26).
+- \[Oct. 2022\] One paper accepted to IEEE TITS (IF=9.55).
+- \[Sep. 2022\] One paper accepted to MedIA (IF=13.83), Congrats to [https://solerxl.github.io/ Lei Xu]!
+- \[Aug. 2022\] One paper accepted to IEEE TITS (IF=9.55).
 
 
 
@@ -41,6 +41,9 @@ I am looking for a PhD position in Fall, 2024. I'm open to any meaningful resear
 Here is a list of my publications (selected).
 For full publications, please refer to my [https://scholar.google.com/citations?hl=en&user=m0aEH2YAAAAJ Google Scholar]. \n
 - Accepted († equal contribution, * corresponding author)
+-- Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping\n
+*Chunming He*\†, Kai Li\†, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\* \n 
+Advances in Neural Information Processing Systems (*NeurIPS*), 2023 \[[https://arxiv.org/abs/2305.11003 PDF]\] \[[https://github.com/ChunmingHe/WS-SAM CODE]\] \n
 -- Degradation-Resistant Unfolding Network for Heterogeneous Image Fusion\n
 *Chunming He*, Kai Li\*, Guoxia Xu, Yulun Zhang, Runze Hu, Zhenhua Guo, Xiu Li\*\n
 International Conference on Computer Vision (*ICCV*), 2023
@@ -71,9 +74,6 @@ Medical Image Analysis (*MedIA*), 2022
 \[[https://www.sciencedirect.com/science/article/abs/pii/S1361841522002717 PDF]\]
 
 - Under Review
--- Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping\n
-*Chunming He*\†, Kai Li\†, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li\* \n 
-arXiv preprint arXiv:2305.11003 (arXiv), 2023 \[[https://arxiv.org/abs/2305.11003 PDF]\] \n
 -- Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects\n
 *Chunming He*, Kai Li\*, Yachao Zhang, Yulun Zhang, Zhenhua Guo, Xiu Li\*, Martin Danelljan, Fisher Yu \n 
 arXiv preprint arXiv:2308.03166 (arXiv), 2023 \[[https://arxiv.org/abs/2308.03166 PDF]\] \n
@@ -89,5 +89,5 @@ arXiv preprint arXiv:2308.03166 (arXiv), 2023 \[[https://arxiv.org/abs/2308.0316
 
 == Professional Activities
 - Reviewer for TIP, TNNLS, TITS, TMM, TCSVT, PR, IET Image Processing, Multimedia Tools and Applications
-- Reviewer for CVPR, ICCV, NeurIPS, ICLR, AAAI, ACM MM
+- Reviewer for CVPR, ICCV, NeurIPS, ICLR, AAAI, ACM MM, ICASSP
 
