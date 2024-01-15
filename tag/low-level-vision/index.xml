@@ -5,12 +5,20 @@
     <link>https://chunminghe.github.io/tag/low-level-vision/</link>
       <atom:link href="https://chunminghe.github.io/tag/low-level-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Low-Level Vision</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
       <title>Low-Level Vision</title>
       <link>https://chunminghe.github.io/tag/low-level-vision/</link>
     </image>
+    
+    <item>
+      <title>Reti-Diff$:$ Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model</title>
+      <link>https://chunminghe.github.io/project/cvpr2024-in-submission/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/cvpr2024-in-submission/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Degradation-Resistant Unfolding Network for Heterogeneous Image Fusion</title>

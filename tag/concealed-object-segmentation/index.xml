@@ -5,12 +5,20 @@
     <link>https://chunminghe.github.io/tag/concealed-object-segmentation/</link>
       <atom:link href="https://chunminghe.github.io/tag/concealed-object-segmentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Concealed Object Segmentation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
       <title>Concealed Object Segmentation</title>
       <link>https://chunminghe.github.io/tag/concealed-object-segmentation/</link>
     </image>
+    
+    <item>
+      <title>Strategic Preys Make Acute Predators$:$ Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects</title>
+      <link>https://chunminghe.github.io/project/iclr2024-in-submission/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/iclr2024-in-submission/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping</title>

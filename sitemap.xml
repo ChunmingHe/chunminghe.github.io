@@ -2,19 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chunminghe.github.io/tag/concealed-object-segmentation/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <loc>https://chunminghe.github.io/tag/low-level-vision/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chunminghe.github.io/tag/conference/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <loc>https://chunminghe.github.io/tag/manuscript/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/project/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/project/cvpr2024-in-submission/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/tags/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/tag/concealed-object-segmentation/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/project/iclr2024-in-submission/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/tag/conference/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -23,10 +39,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/project/iccv2023/</loc>
-    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/tag/low-level-vision/</loc>
     <lastmod>2023-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -72,10 +84,6 @@
   </url><url>
     <loc>https://chunminghe.github.io/project/media2022/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/tag/manuscript/</loc>
-    <lastmod>2000-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/project/tpami-cod-nips/</loc>
