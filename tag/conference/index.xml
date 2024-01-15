@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | Chunming He</title>
+    <link>https://chunminghe.github.io/tag/conference/</link>
+      <atom:link href="https://chunminghe.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
+      <title>Conference</title>
+      <link>https://chunminghe.github.io/tag/conference/</link>
+    </image>
+    
+    <item>
+      <title>Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping</title>
+      <link>https://chunminghe.github.io/project/neurips2023/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Degradation-Resistant Unfolding Network for Heterogeneous Image Fusion</title>
+      <link>https://chunminghe.github.io/project/iccv2023/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/iccv2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction</title>
+      <link>https://chunminghe.github.io/project/cvpr2023/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/cvpr2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source-Free Domain Adaptive Fundus Image Segmentation with Class-Balanced Mean Teacher</title>
+      <link>https://chunminghe.github.io/project/miccai2023/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/miccai2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

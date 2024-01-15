@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Chunming He</title>
+    <link>https://chunminghe.github.io/tag/manuscript/</link>
+      <atom:link href="https://chunminghe.github.io/tag/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
+      <title>Manuscript</title>
+      <link>https://chunminghe.github.io/tag/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>Segment Concealed Objects with Incomplete Supervision</title>
+      <link>https://chunminghe.github.io/project/tpami-cod-nips/</link>
+      <pubDate>Mon, 28 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tpami-cod-nips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Models in Low-Level Vision Tasks$:$ A Survey</title>
+      <link>https://chunminghe.github.io/project/tpami-survey/</link>
+      <pubDate>Tue, 22 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tpami-survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alzhermer&#39;s Disease | Chunming He</title>
+    <link>https://chunminghe.github.io/tag/alzhermers-disease/</link>
+      <atom:link href="https://chunminghe.github.io/tag/alzhermers-disease/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alzhermer&#39;s Disease</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
+      <title>Alzhermer&#39;s Disease</title>
+      <link>https://chunminghe.github.io/tag/alzhermers-disease/</link>
+    </image>
+    
+    <item>
+      <title>Multi-modal sequence learning for Alzheimer’s disease progression prediction with incomplete variable-length longitudinal data</title>
+      <link>https://chunminghe.github.io/project/media2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/media2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

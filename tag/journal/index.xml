@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal | Chunming He</title>
+    <link>https://chunminghe.github.io/tag/journal/</link>
+      <atom:link href="https://chunminghe.github.io/tag/journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
+      <title>Journal</title>
+      <link>https://chunminghe.github.io/tag/journal/</link>
+    </image>
+    
+    <item>
+      <title>HQG-Net$:$ Unpaired Medical Image Enhancement with High-Quality Guidance</title>
+      <link>https://chunminghe.github.io/project/tnnls2023/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tnnls2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DM-Fusion$:$ Deep Model-Driven Network for Heterogeneous Image Fusion</title>
+      <link>https://chunminghe.github.io/project/tnnls2023-fusion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tnnls2023-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IVF-Net$:$ An Infrared and Visible Data Fusion Deep Network for Traffic Object Enhancement in Intelligent Transportation Systems</title>
+      <link>https://chunminghe.github.io/project/tits2022-fusion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tits2022-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PcGAN$:$ A Noise Robust Conditional Generative Adversarial Network for One Shot Learning</title>
+      <link>https://chunminghe.github.io/project/tits2022-gan/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tits2022-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-modal sequence learning for Alzheimer’s disease progression prediction with incomplete variable-length longitudinal data</title>
+      <link>https://chunminghe.github.io/project/media2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/media2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
