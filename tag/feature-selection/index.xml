@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Selection | Lei Xu</title>
+    <link>https://solerxl.github.io/tag/feature-selection/</link>
+      <atom:link href="https://solerxl.github.io/tag/feature-selection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature Selection</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://solerxl.github.io/media/icon_hu42dbb556fc8dc402f094312f033ac683_83390_512x512_fill_lanczos_center_3.png</url>
+      <title>Feature Selection</title>
+      <link>https://solerxl.github.io/tag/feature-selection/</link>
+    </image>
+    
+    <item>
+      <title>Joint Feature and Differentiable k-NN Graph Learning using Dirichlet Energy</title>
+      <link>https://solerxl.github.io/project/neurips2023/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://solerxl.github.io/project/neurips2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Top-k Feature Selection Using Coordinate Descent Method</title>
+      <link>https://solerxl.github.io/project/aaai2023/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://solerxl.github.io/project/aaai2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Top-k Feature Selection with a General Optimization Framework</title>
+      <link>https://solerxl.github.io/project/icme2023/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://solerxl.github.io/project/icme2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Disease Progression via Weakly Supervised Temporal Multitask Matrix Completion</title>
+      <link>https://solerxl.github.io/project/smc/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://solerxl.github.io/project/smc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting ℓ2,0-norm Constrained Least Square Regression Problem</title>
+      <link>https://solerxl.github.io/project/tpami/</link>
+      <pubDate>Tue, 22 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>https://solerxl.github.io/project/tpami/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concealed Object Segmentation | Chunming He</title>
+    <link>https://chunminghe.github.io/tag/concealed-object-segmentation/</link>
+      <atom:link href="https://chunminghe.github.io/tag/concealed-object-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Concealed Object Segmentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
+      <title>Concealed Object Segmentation</title>
+      <link>https://chunminghe.github.io/tag/concealed-object-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>Strategic Preys Make Acute Predators$:$ Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects</title>
+      <link>https://chunminghe.github.io/project/iclr2024/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/iclr2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping</title>
+      <link>https://chunminghe.github.io/project/neurips2023/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction</title>
+      <link>https://chunminghe.github.io/project/cvpr2023/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/cvpr2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incompletely Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Hybrid-Granularity Feature Grouping</title>
+      <link>https://chunminghe.github.io/project/tpami-cod-nips/</link>
+      <pubDate>Mon, 28 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tpami-cod-nips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

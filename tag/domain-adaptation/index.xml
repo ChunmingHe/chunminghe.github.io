@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain Adaptation | Chunming He</title>
+    <link>https://chunminghe.github.io/tag/domain-adaptation/</link>
+      <atom:link href="https://chunminghe.github.io/tag/domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Domain Adaptation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
+      <title>Domain Adaptation</title>
+      <link>https://chunminghe.github.io/tag/domain-adaptation/</link>
+    </image>
+    
+    <item>
+      <title>Source-Free Domain Adaptive Fundus Image Segmentation with Class-Balanced Mean Teacher</title>
+      <link>https://chunminghe.github.io/project/miccai2023/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/miccai2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Chunming He</title>
+    <link>https://chunminghe.github.io/project/</link>
+      <atom:link href="https://chunminghe.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://chunminghe.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Diffusion Models in Low-Level Vision$:$ A Survey</title>
+      <link>https://chunminghe.github.io/project/tpami-survey/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tpami-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-world Image Dehazing with Coherence-based Label Generator and Cooperative Unfolding Network</title>
+      <link>https://chunminghe.github.io/project/neurips2024-in-submission/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips2024-in-submission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reti-Diff$:$ Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model</title>
+      <link>https://chunminghe.github.io/project/cvpr2024-in-submission/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/cvpr2024-in-submission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic Preys Make Acute Predators$:$ Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects</title>
+      <link>https://chunminghe.github.io/project/iclr2024/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/iclr2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping</title>
+      <link>https://chunminghe.github.io/project/neurips2023/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Degradation-Resistant Unfolding Network for Heterogeneous Image Fusion</title>
+      <link>https://chunminghe.github.io/project/iccv2023/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/iccv2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction</title>
+      <link>https://chunminghe.github.io/project/cvpr2023/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/cvpr2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HQG-Net$:$ Unpaired Medical Image Enhancement with High-Quality Guidance</title>
+      <link>https://chunminghe.github.io/project/tnnls2023/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tnnls2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DM-Fusion$:$ Deep Model-Driven Network for Heterogeneous Image Fusion</title>
+      <link>https://chunminghe.github.io/project/tnnls2023-fusion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tnnls2023-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IVF-Net$:$ An Infrared and Visible Data Fusion Deep Network for Traffic Object Enhancement in Intelligent Transportation Systems</title>
+      <link>https://chunminghe.github.io/project/tits2022-fusion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tits2022-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PcGAN$:$ A Noise Robust Conditional Generative Adversarial Network for One Shot Learning</title>
+      <link>https://chunminghe.github.io/project/tits2022-gan/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tits2022-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source-Free Domain Adaptive Fundus Image Segmentation with Class-Balanced Mean Teacher</title>
+      <link>https://chunminghe.github.io/project/miccai2023/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/miccai2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-modal sequence learning for Alzheimer’s disease progression prediction with incomplete variable-length longitudinal data</title>
+      <link>https://chunminghe.github.io/project/media2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/media2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incompletely Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Hybrid-Granularity Feature Grouping</title>
+      <link>https://chunminghe.github.io/project/tpami-cod-nips/</link>
+      <pubDate>Mon, 28 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tpami-cod-nips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
