@@ -2,23 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chunminghe.github.io/project/tpami-cod-survey/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/tag/camouflaged-object-detection/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/tag/manuscript/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/project/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/tags/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://chunminghe.github.io/project/tpami-survey/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/tag/low-level-vision/</loc>
-    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/tag/manuscript/</loc>
-    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/project/</loc>
-    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/tags/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
