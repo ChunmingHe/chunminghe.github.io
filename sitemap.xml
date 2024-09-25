@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chunminghe.github.io/tag/conference/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/tag/low-level-vision/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/project/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/project/neurips2024/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/tags/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://chunminghe.github.io/project/tpami-cod-survey/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,23 +34,15 @@
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chunminghe.github.io/project/</loc>
-    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/tags/</loc>
-    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://chunminghe.github.io/project/tpami-survey/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chunminghe.github.io/tag/low-level-vision/</loc>
-    <lastmod>2024-06-22T00:00:00+00:00</lastmod>
+    <loc>https://chunminghe.github.io/project/tcsvt2024-jugeneralimagerestoration/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chunminghe.github.io/project/neurips2024-in-submission/</loc>
+    <loc>https://chunminghe.github.io/tag/journal/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -39,10 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/tag/concealed-object-segmentation/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/tag/conference/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -63,10 +71,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/project/tnnls2023/</loc>
-    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/tag/journal/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

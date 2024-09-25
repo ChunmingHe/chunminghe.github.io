@@ -5,12 +5,20 @@
     <link>https://chunminghe.github.io/tag/low-level-vision/</link>
       <atom:link href="https://chunminghe.github.io/tag/low-level-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Low-Level Vision</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
       <title>Low-Level Vision</title>
       <link>https://chunminghe.github.io/tag/low-level-vision/</link>
     </image>
+    
+    <item>
+      <title>Real-world Image Dehazing with Coherence-based Label Generator and Cooperative Unfolding Network</title>
+      <link>https://chunminghe.github.io/project/neurips2024/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diffusion Models in Low-Level Vision$:$ A Survey</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>Real-world Image Dehazing with Coherence-based Label Generator and Cooperative Unfolding Network</title>
-      <link>https://chunminghe.github.io/project/neurips2024-in-submission/</link>
+      <title>AIIE$:$ All-Inclusive Image Enhancement via DCT Data Adjustment</title>
+      <link>https://chunminghe.github.io/project/tcsvt2024-jugeneralimagerestoration/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://chunminghe.github.io/project/neurips2024-in-submission/</guid>
+      <guid>https://chunminghe.github.io/project/tcsvt2024-jugeneralimagerestoration/</guid>
       <description></description>
     </item>
     
