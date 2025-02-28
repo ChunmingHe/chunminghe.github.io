@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: February 12, 2025 --><html lang="en-us" >
+<!-- Last Published: February 28, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -282,7 +282,7 @@
 
   
 
-<meta name="description" content="&lt;b&gt;Chunming He&lt;/b&gt;, Kai Li, Fengyang Xiao, Ziyun yang, Chengyu Fang, Longxiang Tang, Xiu Li, Sina Farsiu. &lt;br&gt;&lt;i&gt;IEEE Transactions on Pattern Analysis and Machine Intelligence&lt;/i&gt; &lt;b&gt;(TPAMI)&lt;/b&gt; (Under Review)" />
+<meta name="description" content="&lt;b&gt;Chunming He&lt;/b&gt;, Kai Li, Yachao Zhang, Ziyun yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu. &lt;br&gt;&lt;i&gt;IEEE Transactions on Pattern Analysis and Machine Intelligence&lt;/i&gt; &lt;b&gt;(TPAMI)&lt;/b&gt; (Minor Revision)" />
 
 
 
@@ -310,18 +310,17 @@
 
 
   
-  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary" />
+<meta property="twitter:card" content="summary_large_image" />
 
   <meta property="twitter:site" content="@GetResearchDev" />
   <meta property="twitter:creator" content="@GetResearchDev" />
-<meta property="twitter:image" content="https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png" />
+<meta property="twitter:image" content="https://chunminghe.github.io/project/tpami-cod-nips/featured.png" />
 
 
 
@@ -330,8 +329,8 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Chunming He" />
 <meta property="og:url" content="https://chunminghe.github.io/project/tpami-cod-nips/" />
-<meta property="og:title" content="Incompletely Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Hybrid-Granularity Feature Grouping | Chunming He" />
-<meta property="og:description" content="&lt;b&gt;Chunming He&lt;/b&gt;, Kai Li, Fengyang Xiao, Ziyun yang, Chengyu Fang, Longxiang Tang, Xiu Li, Sina Farsiu. &lt;br&gt;&lt;i&gt;IEEE Transactions on Pattern Analysis and Machine Intelligence&lt;/i&gt; &lt;b&gt;(TPAMI)&lt;/b&gt; (Under Review)" /><meta property="og:image" content="https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Segment Concealed Objects with Incomplete Supervision | Chunming He" />
+<meta property="og:description" content="&lt;b&gt;Chunming He&lt;/b&gt;, Kai Li, Yachao Zhang, Ziyun yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu. &lt;br&gt;&lt;i&gt;IEEE Transactions on Pattern Analysis and Machine Intelligence&lt;/i&gt; &lt;b&gt;(TPAMI)&lt;/b&gt; (Minor Revision)" /><meta property="og:image" content="https://chunminghe.github.io/project/tpami-cod-nips/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -366,7 +365,11 @@
     "@type": "WebPage",
     "@id": "https://chunminghe.github.io/project/tpami-cod-nips/"
   },
-  "headline": "Incompletely Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Hybrid-Granularity Feature Grouping",
+  "headline": "Segment Concealed Objects with Incomplete Supervision",
+  
+  "image": [
+    "https://chunminghe.github.io/project/tpami-cod-nips/featured.png"
+  ],
   
   "datePublished": "2000-08-28T00:00:00Z",
   "dateModified": "2000-08-28T00:00:00Z",
@@ -384,7 +387,7 @@
       "url": "https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "\u003cb\u003eChunming He\u003c/b\u003e, Kai Li, Fengyang Xiao, Ziyun yang, Chengyu Fang, Longxiang Tang, Xiu Li, Sina Farsiu. \u003cbr\u003e\u003ci\u003eIEEE Transactions on Pattern Analysis and Machine Intelligence\u003c/i\u003e \u003cb\u003e(TPAMI)\u003c/b\u003e (Under Review)"
+  "description": "\u003cb\u003eChunming He\u003c/b\u003e, Kai Li, Yachao Zhang, Ziyun yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu. \u003cbr\u003e\u003ci\u003eIEEE Transactions on Pattern Analysis and Machine Intelligence\u003c/i\u003e \u003cb\u003e(TPAMI)\u003c/b\u003e (Minor Revision)"
 }
 </script>
 
@@ -406,7 +409,7 @@
 
 
   
-  <title>Incompletely Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Hybrid-Granularity Feature Grouping | Chunming He</title>
+  <title>Segment Concealed Objects with Incomplete Supervision | Chunming He</title>
 
   
   
@@ -512,18 +515,26 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
   
-  
+
+
+
 <div class="article-container pt-3">
-  <h1>Incompletely Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Hybrid-Granularity Feature Grouping</h1>
+  <h1>Segment Concealed Objects with Incomplete Supervision</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -555,13 +566,20 @@
 
 </div>
 
-    
-
-
-
-
-
   
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 193px;">
+  <div style="position: relative">
+    <img src="/project/tpami-cod-nips/featured_hu6980d31ee60650f36d156094d564fa99_315559_c4173bde4d6530d004082af05484ab43.webp" width="720" height="193" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -603,7 +621,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F&amp;text=Incompletely&#43;Supervised&#43;Concealed&#43;Object&#43;Segmentation&#43;with&#43;SAM-based&#43;Pseudo&#43;Labeling&#43;and&#43;Hybrid-Granularity&#43;Feature&#43;Grouping" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F&amp;text=Segment&#43;Concealed&#43;Objects&#43;with&#43;Incomplete&#43;Supervision" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -620,7 +638,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F&amp;t=Incompletely&#43;Supervised&#43;Concealed&#43;Object&#43;Segmentation&#43;with&#43;SAM-based&#43;Pseudo&#43;Labeling&#43;and&#43;Hybrid-Granularity&#43;Feature&#43;Grouping" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F&amp;t=Segment&#43;Concealed&#43;Objects&#43;with&#43;Incomplete&#43;Supervision" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -639,7 +657,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Incompletely%20Supervised%20Concealed%20Object%20Segmentation%20with%20SAM-based%20Pseudo%20Labeling%20and%20Hybrid-Granularity%20Feature%20Grouping&amp;body=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Segment%20Concealed%20Objects%20with%20Incomplete%20Supervision&amp;body=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -656,7 +674,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F&amp;title=Incompletely&#43;Supervised&#43;Concealed&#43;Object&#43;Segmentation&#43;with&#43;SAM-based&#43;Pseudo&#43;Labeling&#43;and&#43;Hybrid-Granularity&#43;Feature&#43;Grouping" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F&amp;title=Segment&#43;Concealed&#43;Objects&#43;with&#43;Incomplete&#43;Supervision" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -673,7 +691,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Incompletely&#43;Supervised&#43;Concealed&#43;Object&#43;Segmentation&#43;with&#43;SAM-based&#43;Pseudo&#43;Labeling&#43;and&#43;Hybrid-Granularity&#43;Feature&#43;Grouping%20https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Segment&#43;Concealed&#43;Objects&#43;with&#43;Incomplete&#43;Supervision%20https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -690,7 +708,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F&amp;title=Incompletely&#43;Supervised&#43;Concealed&#43;Object&#43;Segmentation&#43;with&#43;SAM-based&#43;Pseudo&#43;Labeling&#43;and&#43;Hybrid-Granularity&#43;Feature&#43;Grouping" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fchunminghe.github.io%2Fproject%2Ftpami-cod-nips%2F&amp;title=Segment&#43;Concealed&#43;Objects&#43;with&#43;Incomplete&#43;Supervision" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

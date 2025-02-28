@@ -29,15 +29,7 @@
     </item>
     
     <item>
-      <title>Diffusion Models in Low-Level Vision$:$ A Survey</title>
-      <link>https://chunminghe.github.io/project/tpami-survey/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://chunminghe.github.io/project/tpami-survey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incompletely Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Hybrid-Granularity Feature Grouping</title>
+      <title>Segment Concealed Objects with Incomplete Supervision</title>
       <link>https://chunminghe.github.io/project/tpami-cod-nips/</link>
       <pubDate>Mon, 28 Aug 2000 00:00:00 +0000</pubDate>
       <guid>https://chunminghe.github.io/project/tpami-cod-nips/</guid>
