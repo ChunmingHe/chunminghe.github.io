@@ -5,12 +5,28 @@
     <link>https://chunminghe.github.io/tag/conference/</link>
       <atom:link href="https://chunminghe.github.io/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://chunminghe.github.io/tag/conference/</link>
     </image>
+    
+    <item>
+      <title>Reti-Diff$:$ Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model</title>
+      <link>https://chunminghe.github.io/project/iclr2025/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/iclr2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-world Image Dehazing with Coherence-based Label Generator and Cooperative Unfolding Network</title>
+      <link>https://chunminghe.github.io/project/neurips2024/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Strategic Preys Make Acute Predators$:$ Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects</title>
