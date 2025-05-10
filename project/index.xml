@@ -5,12 +5,36 @@
     <link>https://chunminghe.github.io/project/</link>
       <atom:link href="https://chunminghe.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chunminghe.github.io/media/icon_hu7660020d95bb4a09ee7fc46dfa00f0ec_20081_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://chunminghe.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>UnfoldIR$:$ Rethinking Deep Unfolding Network in Illumination Degradation Image Restoration</title>
+      <link>https://chunminghe.github.io/project/neurips-1/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCALER$:$ SAM-Enhanced Collaborative Learning for Label-Deficient Concealed Object Segmentation</title>
+      <link>https://chunminghe.github.io/project/neurips-2/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IQPFR$:$ An Image Quality Prior for Blind Face Restoration and Beyond</title>
+      <link>https://chunminghe.github.io/project/neurips-3/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/neurips-3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RUN$:$ Reversible Unfolding Network for Concealed Object Segmentation</title>
