@@ -14,17 +14,25 @@
     
     <item>
       <title>SCALER$:$ SAM-Enhanced Collaborative Learning for Label-Deficient Concealed Object Segmentation</title>
-      <link>https://chunminghe.github.io/project/neurips-2/</link>
+      <link>https://chunminghe.github.io/project/neurips2025-2/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://chunminghe.github.io/project/neurips-2/</guid>
+      <guid>https://chunminghe.github.io/project/neurips2025-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IQPFR$:$ An Image Quality Prior for Blind Face Restoration and Beyond</title>
-      <link>https://chunminghe.github.io/project/neurips-3/</link>
+      <link>https://chunminghe.github.io/project/neurips2025-3/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://chunminghe.github.io/project/neurips-3/</guid>
+      <guid>https://chunminghe.github.io/project/neurips2025-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segment Concealed Objects with Incomplete Supervision</title>
+      <link>https://chunminghe.github.io/project/tpami-cod-nips/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://chunminghe.github.io/project/tpami-cod-nips/</guid>
       <description></description>
     </item>
     
@@ -65,14 +73,6 @@
       <link>https://chunminghe.github.io/project/cvpr2023/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://chunminghe.github.io/project/cvpr2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Segment Concealed Objects with Incomplete Supervision</title>
-      <link>https://chunminghe.github.io/project/tpami-cod-nips/</link>
-      <pubDate>Mon, 28 Aug 2000 00:00:00 +0000</pubDate>
-      <guid>https://chunminghe.github.io/project/tpami-cod-nips/</guid>
       <description></description>
     </item>
     

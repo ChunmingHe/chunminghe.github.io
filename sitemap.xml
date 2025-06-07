@@ -22,7 +22,7 @@
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chunminghe.github.io/project/neurips-1/</loc>
+    <loc>https://chunminghe.github.io/project/neurips2025-1/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,12 +30,20 @@
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chunminghe.github.io/project/neurips-2/</loc>
+    <loc>https://chunminghe.github.io/project/neurips2025-2/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chunminghe.github.io/project/neurips-3/</loc>
+    <loc>https://chunminghe.github.io/project/neurips2025-3/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/tag/journal/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chunminghe.github.io/project/tpami-cod-nips/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/tag/conference/</loc>
@@ -51,10 +59,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/project/tpami-survey/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/tag/journal/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -128,10 +132,6 @@
   </url><url>
     <loc>https://chunminghe.github.io/project/media2022/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chunminghe.github.io/project/tpami-cod-nips/</loc>
-    <lastmod>2000-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chunminghe.github.io/categories/</loc>
